@@ -49,10 +49,10 @@ Python 3.x
 sqlite3 (Python Standard Library)
 
 
-Author
+# Author
 Praneeth
 
-Contact
+# Contact
 praneethkatakam143@gmail.com
 
 
